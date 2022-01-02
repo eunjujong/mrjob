@@ -1,0 +1,18 @@
+Naive Bayes Spam Classifier Using MRJob/Pyspark
+
+Combined 5 SMS and email datasets (Kaggle; V. Metsis, I. Androutsopoulos and G. Paliouras)
+- Preprocessing
+- Deleting unnecessary/Null entries
+- Formatting feature and class labels
+- Assigning IDs for data entries
+
+Small Data
+- 479 KB
+- 13.4% Spam
+
+Data Sources: 
+https://www.kaggle.com/venky73/spam-mails-dataset
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+https://www.kaggle.com/adepvenugopal/detecting-sms-spam-using-machine-learning
+http://www2.aueb.gr/users/ion/data/enron-spam/
+https://www.kaggle.com/balakishan77/spam-or-ham-email-classification
